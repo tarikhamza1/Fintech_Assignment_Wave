@@ -22,7 +22,11 @@ And finally, the API. Wave currently has an API, but it is not offered to third-
 Overall, Wave is a perfect solution for small businesses that are just getting started or small businesses that have just begun the digitalization process. However, Wave might lose customers because of the lack of integration and the lack of data analysis and data interpretation services offered. 
 ## Addendum (Sources)
 https://www.waveapps.com/about-us/about
-https://www.techradar.com/reviews/wave-2020 ---
+
+https://www.techradar.com/reviews/wave-2020 
+
 https://www.vinewave.com/blog/21-reasons-why-we-switched-from-wave-accounting-to-xero-edcdfa6d2cc4/
+
 https://www.zoominfo.com/c/wave/346954577
+
 https://www.owler.com/company/waveapps
