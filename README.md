@@ -1,3 +1,5 @@
 # Fintech_Assignment_Wave
-University of Toronto Financial Technology Bootcamp - Assignment 1 - Wave
-#Unit 1 Homework Assignment: FinTech Case Study - Wave
+
+# Unit 1 Homework Assignment: FinTech Case Study - Wave
+## Overview and Origin
+Technology is now an unavoidable aspect of our lives. It is not only changing the way we live, but it is also improving the way we do business, and Wave is a testament to that. Wave is an online platform offering a wide variety of accounting related services to small businesses. From Invoicing, to tracking expenses, income and payments, to payroll and receipts, wave is trying to establish itself as the one stop shop for all accounting needs. The idea behind Wave was born when co-founder Kirk Simpson realized that accounting, invoicing, and payroll were the most outdated and the most looked over aspects of the business. As a former tech company owner, Kirk was surprised to see that there was no simple, free, and technologically advanced software that small businesses could leverage and improve their operations. In 2010, Wave was founded by Kirk Simpson and James Lochrie with only 8 employees. Wave raised about $80 million in funding over 9 rounds. It was sold to H&R Block in 2019 for $537 million. 
